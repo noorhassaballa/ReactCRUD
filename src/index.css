@@ -1,0 +1,14 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+
+.taskcard {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+h1 {
+  text-align: center;
+}
